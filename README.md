@@ -94,15 +94,41 @@ Built with **Flutter 3.x**, **Firebase**, and **Provider**, following Clean Arch
 
 ## 📱 Screenshots
 
-> *Screenshots will be added after first stable release.*
+### 🔐 Authentication
+| Sign In | Sign Up |
+|---------|---------|
+| ![Sign In](docs/screenshots/signin.png) | ![Sign Up](docs/screenshots/signup.png) |
 
-| Login | Dashboard | Attendance | Events |
-|-------|-----------|------------|--------|
-| ![Login](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Attendance](docs/screenshots/attendance.png) | ![Events](docs/screenshots/events.png) |
+### 🏠 Dashboard & Navigation
+| Dashboard | Teams |
+|-----------|-------|
+| ![Dashboard](docs/screenshots/dashboard.png) | ![Teams](docs/screenshots/teams.png) |
 
-| Learning Zone | Profile & Badges | Community | Animated Drawer |
-|--------------|-----------------|-----------|-----------------|
-| ![Learning](docs/screenshots/learning.png) | ![Profile](docs/screenshots/profile.png) | ![Community](docs/screenshots/community.png) | ![Drawer](docs/screenshots/drawer.png) |
+### 📅 Meetings
+| Meetings List | Schedule Meeting |
+|---------------|-----------------|
+| ![Meetings](docs/screenshots/meetings.png) | ![Schedule](docs/screenshots/schedulemeeting.png) |
+
+### 🎪 Events
+| Events | Create Event |
+|--------|-------------|
+| ![Events](docs/screenshots/events.png) | ![Create Event](docs/screenshots/createevents.png) |
+
+### 📚 Learning Zone
+| Learning Zone | Resources |
+|---------------|-----------|
+| ![Learning](docs/screenshots/learning_zone.png) | ![Learning 2](docs/screenshots/learning_zone2.png) |
+
+### 👤 Profile & Community
+| Profile | Community | New Post |
+|---------|-----------|----------|
+| ![Profile](docs/screenshots/profile.png) | ![Community](docs/screenshots/community.png) | ![New Post](docs/screenshots/newpost.png) |
+
+### 🤝 Volunteer
+| Volunteer | Leaderboard |
+|-----------|-------------|
+| ![Volunteer](docs/screenshots/voluteer.png) | ![Leaderboard](docs/screenshots/voluteerleaderboard.png) |
+| ![Volunteer 1](docs/screenshots/voluteer1.png) | |
 
 ---
 
