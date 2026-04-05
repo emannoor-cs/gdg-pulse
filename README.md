@@ -92,43 +92,43 @@ Built with **Flutter 3.x**, **Firebase**, and **Provider**, following Clean Arch
 
 ---
 
+---
 ## 📱 Screenshots
 
 ### 🔐 Authentication
 | Sign In | Sign Up |
 |---------|---------|
-| ![Sign In](docs/screenshots/signin.png) | ![Sign Up](docs/screenshots/signup.png) |
+| ![Sign In](docs/screenshots/signin.jpeg) | ![Sign Up](docs/screenshots/signup.jpeg) |
 
 ### 🏠 Dashboard & Navigation
 | Dashboard | Teams |
 |-----------|-------|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Teams](docs/screenshots/teams.png) |
+| ![Dashboard](docs/screenshots/dashboard.jpeg) | ![Teams](docs/screenshots/teams.jpeg) |
 
 ### 📅 Meetings
 | Meetings List | Schedule Meeting |
 |---------------|-----------------|
-| ![Meetings](docs/screenshots/meetings.png) | ![Schedule](docs/screenshots/schedulemeeting.png) |
+| ![Meetings](docs/screenshots/meetings.jpeg) | ![Schedule](docs/screenshots/schedulemeeting.jpeg) |
 
 ### 🎪 Events
 | Events | Create Event |
 |--------|-------------|
-| ![Events](docs/screenshots/events.png) | ![Create Event](docs/screenshots/createevents.png) |
+| ![Events](docs/screenshots/events.jpeg) | ![Create Event](docs/screenshots/createevents.jpeg) |
 
 ### 📚 Learning Zone
 | Learning Zone | Resources |
 |---------------|-----------|
-| ![Learning](docs/screenshots/learning_zone.png) | ![Learning 2](docs/screenshots/learning_zone2.png) |
+| ![Learning](docs/screenshots/learning_zone.jpeg) | ![Learning 2](docs/screenshots/learning_zone2.jpeg) |
 
 ### 👤 Profile & Community
 | Profile | Community | New Post |
 |---------|-----------|----------|
-| ![Profile](docs/screenshots/profile.png) | ![Community](docs/screenshots/community.png) | ![New Post](docs/screenshots/newpost.png) |
+| ![Profile](docs/screenshots/profile.jpeg) | ![Community](docs/screenshots/community.jpeg) | ![New Post](docs/screenshots/newpost.jpeg) |
 
 ### 🤝 Volunteer
-| Volunteer | Leaderboard |
-|-----------|-------------|
-| ![Volunteer](docs/screenshots/voluteer.png) | ![Leaderboard](docs/screenshots/voluteerleaderboard.png) |
-| ![Volunteer 1](docs/screenshots/voluteer1.png) | |
+| My History | Leaderboard | Opportunities |
+|---------|-----------|----------|
+| ![Volunteer](docs/screenshots/voluteer.jpeg) | ![Leaderboard](docs/screenshots/voluteerleaderboard.jpeg) |  ![Volunteer 1](docs/screenshots/voluteer1.jpeg) |
 
 ---
 
