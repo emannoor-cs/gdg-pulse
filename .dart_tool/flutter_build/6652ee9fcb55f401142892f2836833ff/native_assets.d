@@ -1,0 +1,1 @@
+ C:\\Users\\PMYLS\\Downloads\\Flutter\\gdg_pulse\\.dart_tool\\flutter_build\\6652ee9fcb55f401142892f2836833ff\\native_assets.yaml: 

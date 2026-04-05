@@ -1,0 +1,46 @@
+name: gdg_pulse
+description: GDG Pulse - A modern community management app for Google Developer Groups.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+
+  # Core UI
+  cupertino_icons: ^1.0.6
+
+  # Fonts (used in theme)
+  google_fonts: ^6.2.1
+
+  # SVG support (GDG logo, icons)
+  flutter_svg: ^2.0.10
+
+  # Animations (for pulsing dot, smooth UI)
+  lottie: ^3.1.2
+
+  # Utilities
+  intl: ^0.19.0
+
+  # URL launcher (community links, socials)
+  url_launcher: ^6.3.0
+
+  # Optional (future-ready)
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

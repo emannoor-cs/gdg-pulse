@@ -1,0 +1,28 @@
+# ─── Firebase — NEVER commit these (contain private API keys) ───
+google-services.json
+GoogleService-Info.plist
+lib/firebase_options.dart
+
+# ─── Android secrets ───
+android/local.properties
+android/key.properties
+android/.gradle/
+android/captures/
+
+# ─── iOS secrets ───
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Runner/GeneratedPluginRegistrant.*
+
+# ─── Windows build artifacts ───
+/windows/flutter/generated_plugin_registrant.cc
+/windows/flutter/generated_plugin_registrant.h
+/windows/flutter/generated_plugins.cmake
+
+# ─── Web ───
+/web/
+
+# ─── Environment / secrets ───
+.env
+*.env
